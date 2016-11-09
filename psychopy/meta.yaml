@@ -52,6 +52,7 @@ requirements:
         - numexpr
         - pil
         - python-xlib # [linux]
+        - configobj
         # - opencv
 
     run:
@@ -96,6 +97,7 @@ requirements:
         - pytables
         - numexpr
         - pil
+        - configobj
         # - opencv
 
         # - parallel
